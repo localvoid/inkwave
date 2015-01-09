@@ -1,0 +1,15 @@
+name: inkwave
+version: 0.0.1
+author: Boris Kaul <localvoid@gmail.com>
+description: Material Design Liquid Components
+homepage: https://github.com/localvoid/inkwave
+dependencies:
+  browser: '>=0.10.0 <0.11.0'
+  liquid: '>=0.3.0 <0.4.0'
+  vcss: '>=0.0.2 <0.0.3'
+dev_dependencies:
+  route: any
+  glob: any
+  xml: any
+transformers:
+- liquid
